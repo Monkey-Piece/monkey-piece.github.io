@@ -9,5 +9,5 @@ author: notal
 ## List of Contributors:
 
 | Company | Conection to Monkey Piece | Role for the Wiki |
-| :- | :- | -: |
+| :- | :- | :- |
 | [Notal](https://monkey-piece.github.io/posts/Notal) | Trial Moderator | Founder |
