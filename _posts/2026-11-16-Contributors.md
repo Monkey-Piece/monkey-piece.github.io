@@ -6,8 +6,8 @@ tags: about
 description: Who has created and maintained this wiki
 author: notal
 ---
-# List Of Contributors:
+# List of Contributors:
 
 | Company                      | Conection to Monkey Piece |
 | :- | : |
-| Notal | Trial Moderator |
+| [Notal](https://monkey-piece.github.io/posts/Notal) | Trial Moderator |

@@ -12,5 +12,5 @@ there is currently no relese date but the game is already being developed
 so the game will probibly be ready soon!
 
 > Note: The developers of the game do not manage this wiki.
-it is managed by Notal and other contributors most of whom can be found on the Contributors Page.
+it is managed by [Notal](https://monkey-piece.github.io/posts/Notal) and other contributors most of whom can be found on the [Contributors Page](https://monkey-piece.github.io/posts/Contributors).
 {: .prompt-warning }
