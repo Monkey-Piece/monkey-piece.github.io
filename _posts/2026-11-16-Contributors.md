@@ -8,8 +8,6 @@ author: notal
 ---
 # List Of Contributors:
 
-| Company                      | Contact          | Country |
-| :--------------------------- | :--------------- | ------: |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
+| Company                      | Conection to Monkey Piece |
+| :- | : |
+| Notal | Trial Moderator |
