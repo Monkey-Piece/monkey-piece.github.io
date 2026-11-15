@@ -7,7 +7,8 @@ description: Who has created and maintained this wiki
 author: notal
 ---
 # List Of Contributors:
-| Name  | Score |
-|:------|------:|
-| Alex  |    95 |
-| Sam   |    88 |
+| Company                      | Contact          | Country |
+| :--------------------------- | :--------------- | ------: |
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    |      UK |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
