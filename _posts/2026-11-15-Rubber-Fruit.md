@@ -9,16 +9,14 @@ image:
   path: /assets/rubber.png
   alt: Rubber fruit
 ---
-![Rubber fruit model](/assets/rubber.png){: width="972" height="589" .w-50 .right}
-Rubber fruit is a comfirmed fruit that is comming to [Monkey Piece](https://monkey-piece.github.io/about)
+> Note: This is from leaked data!
+This can be removed or changed later!
+{: .prompt-danger }
 
-
-
-
-
-
-
-
-
+![Rubber fruit model](/assets/rubber.png){: width="486" height="294" .w-50 .right}
+Rubber fruit is a comfirmed fruit that is comming to [Monkey Piece](https://monkey-piece.github.io/about).
+The model of this fruit on the image is currently out-dated but the new model has not bee leaked yet.
+From what we currently know the ability name can be place holders and will later get there true names.
+Next to Flame this is currently the only other 100% comfirmed fruit that will be in [Monkey Piece](https://monkey-piece.github.io/about).
 leaks:
 ![rubber leak image](/assets/rubber-abilitys.jpg)
