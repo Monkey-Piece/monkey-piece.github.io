@@ -7,6 +7,7 @@ description: Who has created and maintained this wiki
 author: notal
 ---
 # List Of Contributors:
-| Name  | Conection to Monkey Piece |
-| :---- | ------------------------: |
-| Notal | Trial Moderator           |
+| Name  | Score |
+|:------|------:|
+| Alex  |    95 |
+| Sam   |    88 |
