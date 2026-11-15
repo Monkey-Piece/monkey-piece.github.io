@@ -18,5 +18,6 @@ Rubber fruit is a comfirmed fruit that is comming to [Monkey Piece](https://monk
 The model of this fruit on the image is currently out-dated but the new model has not bee leaked yet.
 From what we currently know the ability name can be place holders and will later get there true names.
 Next to Flame this is currently the only other 100% comfirmed fruit that will be in [Monkey Piece](https://monkey-piece.github.io/about).
-leaks:
+
+- Current Rubber leaks:
 ![rubber leak image](/assets/rubber-abilitys.jpg)
