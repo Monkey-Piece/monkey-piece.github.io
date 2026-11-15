@@ -2,7 +2,7 @@
 title: About Monkey Piece
 date: 2026-11-15 10:52:00 +0200
 categories: [About]
-tags: offical
+tags: about
 description: What is Monkey Piece?
 author: notal
 ---
