@@ -6,7 +6,7 @@ tags: about contributors
 description: Who has created and maintained this wiki
 author: notal
 ---
-# List of Contributors:
+## List of Contributors:
 
 | Company                      | Conection to Monkey Piece |
 | :- | : |
