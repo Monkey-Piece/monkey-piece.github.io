@@ -12,5 +12,13 @@ image:
 ![Rubber fruit model](/assets/rubber.png){: width="972" height="589" .w-50 .right}
 Rubber fruit is a comfirmed fruit that is comming to [Monkey Piece](https://monkey-piece.github.io/about)
 
+
+
+
+
+
+
+
+
 leaks:
 ![rubber leak image](/assets/rubber-abilitys.jpg)
