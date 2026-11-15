@@ -8,5 +8,5 @@ author: notal
 ---
 # List Of Contributors:
 | Name  | Conection to Monkey Piece |
-| :---- | :------------------------ |
+| :---- | ------------------------: |
 | Notal | Trial Moderator           |
