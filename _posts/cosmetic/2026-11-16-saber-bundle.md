@@ -11,7 +11,7 @@ image:
 ---
 
 ## Bundle
-The Saber Bundle is a bundle that will be added to {} when it comes out.
+The Saber Bundle is a bundle that will be added to [Monkey Piece](https://monkey-piece.github.io/about) when it comes out.
 The bundle came for a idea by ayojay0560(discord) and it was 19,99
 but, the developers made the bundle 9,99 instead.
 ## Bundle contend:
