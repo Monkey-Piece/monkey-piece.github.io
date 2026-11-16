@@ -14,16 +14,13 @@ image:
 The Saber Bundle is a bundle that will be added to {} when it comes out.
 The bundle came for a idea by ayojay0560(discord) and it was 19,99
 but, the developers made the bundle 9,99 instead.
-
 ## Bundle contend:
-
-SABER BUNDLE
-$9.99
-5,000 Berries
-
+Saber Bundle Price:
+- $9.99
+- 5,000 Berries
 Includes:
-Saber Sword
-Red Hair
-Facial Hair + Scars
-Conqueror's Eyes
-5,000 Berries
+- Saber Sword
+- Red Hair
+- Facial Hair + Scars
+- Conqueror's Eyes
+- 5,000 Berries
