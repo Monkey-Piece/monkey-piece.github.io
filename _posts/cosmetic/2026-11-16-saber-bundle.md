@@ -25,5 +25,5 @@ Includes:
 Saber Sword
 Red Hair
 Facial Hair + Scars
-Conqueror’s Eyes
+Conqueror's Eyes
 5,000 Berries
