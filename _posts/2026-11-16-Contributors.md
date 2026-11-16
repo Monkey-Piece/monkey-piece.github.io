@@ -1,6 +1,6 @@
 ---
 title: Contributors
-date: 2026-11-15 11:20:00 +0200
+date: 2026-11-16 09:40:00 +0200
 categories: [About]
 tags: about contributors
 description: Who has created and maintained this wiki
