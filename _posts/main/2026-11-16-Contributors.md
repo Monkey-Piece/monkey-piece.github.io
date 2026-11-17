@@ -13,4 +13,4 @@ author: notal
 | [WikiHaven](https://github.com/WikiHaven) | N/A | Creator |
 | [Notal](https://monkey-piece.github.io/posts/Notal) | Trial Moderator | Contributor |
 | [TDog](https://www.youtube.com/channel/UCk-PPPuLjSSAZ84VdTo4iFA) | Founder | Information |
-| Caboom | Developer | N/A |
+| [Caboom](https://www.youtube.com/channel/UCMZU0CFrPJXZj5mQFv6XgZA) | Developer | N/A |
