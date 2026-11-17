@@ -8,7 +8,8 @@ author: notal
 ---
 ## List of Contributors:
 
-| Company | Monkey Piece | Wiki |
+| Name | Monkey Piece | Wiki |
 | :- | :- | :- |
-| [Notal](https://monkey-piece.github.io/posts/Notal) | Trial Moderator | Founder |
-| [TDog](https://www.youtube.com/channel/UCk-PPPuLjSSAZ84VdTo4iFA) | Founder | N/A |
+| WikiHaven | N/A | Creator |
+| [Notal](https://monkey-piece.github.io/posts/Notal) | Trial Moderator | Contributor |
+| [TDog](https://www.youtube.com/channel/UCk-PPPuLjSSAZ84VdTo4iFA) | Founder | Information |
